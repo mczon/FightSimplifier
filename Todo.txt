@@ -1,7 +1,7 @@
 Byggar:
 - Jutsis > 5 init så ökar init
 
-Markera att man har använt jutsu denna runda
+Markera att man har använt jutsu denna runda.
 
 Tillägg:
 1.  T100 som slår när man gör något
