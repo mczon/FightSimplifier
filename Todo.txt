@@ -1,0 +1,27 @@
+Byggar:
+- Jutsis > 5 init så ökar init
+
+Markera att man har använt jutsu denna runda
+
+Tillägg:
+1.  T100 som slår när man gör något
+1.a Tärningsgenerator som kan läsa XtY och slå tärning därefter
+
+2 Logga det som sker i strid (möjlighet att fylla i skada om den inte rullas i programmet, dropdown på alla namn om vem som skadas)
+2.b Valknapp om man vill få fråga att fylla i skada
+2.c  Ångra
+
+3. Spara inställningar i fil bredvid
+
+4. Fylla i skada och rulla den
+
+5. About meny för "release-notice" och planer :D
+
+
+------------------------------
+Kommentar ifrån karaktärspappret
+Ingen mod vid defensiva handlingar
+Två attacker, mod med 2 men init som en
+Kunna ladda in personer och bara sätta deras init
+Defensiv modifikationlista
+Chakra/Ki använt denna runda
