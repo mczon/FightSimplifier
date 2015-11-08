@@ -111,6 +111,9 @@ public class FightSimplifier extends Application {
         mFightersPane.add(mDefenceModLabel, 5, 0, 1, 1);
         mFightersPane.add(mResetRoundButton, 6, 0, 2, 1);
         int rowIndex = 1;
+
+        //TODO add a scroll and make it work!
+
         if (!fighterRows.isEmpty()) {
             for (final FighterRow row : fighterRows) {
                 mFightersPane.add(row.getNameLabel(), 0, rowIndex, 3, 1);
